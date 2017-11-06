@@ -3,4 +3,5 @@ _site
 .jekyll-metadata
 node_modules
 package.json
-.gulpfile.js
+gulpfile.js
+.babelrc
