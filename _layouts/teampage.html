@@ -4,14 +4,91 @@ scripts:
   - teampage
 ---
 
-<div class="l-team">
-  <section class="l-team__banner">Banner</section>
+{% assign team = site.data[page.datafile] %}
+<script>var dataPath = '{{ site.baseurl }}/data/{{ page.datafile }}.json'</script>
 
-  <section class="l-team__details">Team Details</section>
+<div class="l-team j-team__vm">
+  <section class="l-team__banner"><h1>{{ team.name }}</h1></section>
 
-  <section class="l-team__roster">Current Roster</section>
+  <section class="l-team__details">
+    <h2>Team Details</h2>
 
-  <section class="l-team__dropped">Dropped Played</section>
+    <p>General Manager: {{ team.gm }}</p>
+    <p><span v-on:click="toggleControls()">Preview Roster Changes</span></p>
 
-  <section class="l-team__honours">Team Honours</section>
+    <ul>
+      <li>
+        Salary Cap: $ {{ team.salaryCap }}
+      </li>
+      <li>
+        Cap Hit: $ ${ capHit }
+      </li>
+      <li>
+        Cap Space: $ ${ capSpace }
+      </li>
+    </ul>
+  </section>
+
+  <section class="l-team__roster">
+    <h2>Current Roster</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Pos</th>
+          <th>Player</th>
+          <th>$</th>
+          <th>Yr</th>
+          <th v-show="showControls"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr v-for="player in contracts" v-if="!player.drop">
+          <td>${ player.position }</td>
+          <td>${ player.name }</td>
+          <td>${ player.cost }</td>
+          <td>${ player.year }</td>
+          <td v-show="showControls"><span v-on:click="dropPlayer(player)">X</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="l-team__dropped">
+    <h2>Dropped Played</h2>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Pos</th>
+          <th>Player</th>
+          <th>$</th>
+          <th>Yr</th>
+          <th v-show="showControls"></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr v-for="player in contracts" v-if="player.drop">
+          <td>${ player.position }</td>
+          <td>${ player.name }</td>
+          <td>${ player.cost }</td>
+          <td>${ player.year }</td>
+          <td v-show="showControls"><span v-if="!player.fixed" v-on:click="addPlayer(player)">X</span></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  {% if team.trophies.size > 0 %}
+  <section class="l-team__honours">
+    <h2>Team Honours</h2>
+    <ul>
+      {% for trophy in team.trophies %}
+        {{ trophy.name }}
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  <!-- <pre>${ $data }</pre> -->
 </div>

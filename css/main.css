@@ -51,6 +51,14 @@ section {
   border: 1px solid #000;
   padding: 1rem; }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700; }
+
 table {
   border: 1px solid #000;
   width: 100%; }
@@ -67,7 +75,8 @@ table {
   .l-team__banner {
     grid-column: 1 / 4; }
   .l-team__details {
-    grid-column: 1 / 2; }
+    grid-column: 1 / 2;
+    grid-row: 2 / 3; }
   .l-team__roster {
     grid-column: 2 / 3;
     grid-row: 2 / 4; }
@@ -75,4 +84,5 @@ table {
     grid-column: 3 / 4;
     grid-row: 2 / 4; }
   .l-team__honours {
-    grid-column: 1 / 2; } }
+    grid-column: 1 / 2;
+    grid-row: 3 / 4; } }
