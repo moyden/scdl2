@@ -1,11 +1,76 @@
+// page level layout
+
 .l-site-header {
-  background-color: $shield-blue;
+  border: 1px solid $black;
+  padding: 1rem;
 }
 
 .l-page-content {
-  background-color: $shield-red;
+  border: 1px solid $black;
+  padding: 1rem;
 }
 
 .l-site-footer {
-  background-color: $shield-blue;
+  border: 1px solid $black;
+  padding: 1rem;
+}
+
+// teampage layout
+
+.l-team {
+  border: 1px solid $black;
+  // TODO
+}
+
+.l-team__banner {
+  border: 1px solid $black;
+}
+
+.l-team__details {
+  border: 1px solid $black;
+  // TODO
+}
+
+.l-team__roster {
+  border: 1px solid $black;
+  // TODO
+}
+
+.l-team__dropped {
+  border: 1px solid $black;
+  // TODO
+}
+
+.l-team__honours {
+  border: 1px solid $black;
+  // TODO
+}
+
+@media screen and (min-width: 700px) {
+  .l-team {
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+  }
+
+  .l-team__banner {
+    grid-column: 1 / 4;
+  }
+
+  .l-team__details {
+    grid-column: 1 / 2;
+  }
+
+  .l-team__roster {
+    grid-column: 2 / 3;
+    grid-row: 2 / 4;
+  }
+
+  .l-team__dropped {
+    grid-column: 3 / 4;
+    grid-row: 2 / 4;
+  }
+
+  .l-team__honours {
+    grid-column: 1 / 2;
+  }
 }

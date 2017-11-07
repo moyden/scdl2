@@ -40,11 +40,61 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+body {
+  color: #000;
+  font-family: 'Helvetica Neue', sans-serif;
+  text-transform: uppercase; }
+
+header,
+footer,
+div,
+section {
+  padding: 1rem;
+  text-align: center; }
+
 .l-site-header {
-  background-color: #2980b9; }
+  border: 1px solid #000;
+  padding: 1rem; }
 
 .l-page-content {
-  background-color: #e74c3c; }
+  border: 1px solid #000;
+  padding: 1rem; }
 
 .l-site-footer {
-  background-color: #2980b9; }
+  border: 1px solid #000;
+  padding: 1rem; }
+
+.l-team {
+  border: 1px solid #000; }
+
+.l-team__banner {
+  border: 1px solid #000; }
+
+.l-team__details {
+  border: 1px solid #000; }
+
+.l-team__roster {
+  border: 1px solid #000; }
+
+.l-team__dropped {
+  border: 1px solid #000; }
+
+.l-team__honours {
+  border: 1px solid #000; }
+
+@media screen and (min-width: 700px) {
+  .l-team {
+    display: grid;
+    grid-template-columns: 30% 40% 30%; }
+  .l-team__banner {
+    grid-column: 1 / 4; }
+  .l-team__details {
+    grid-column: 1 / 2; }
+  .l-team__roster {
+    grid-column: 2 / 3;
+    grid-row: 2 / 4; }
+  .l-team__dropped {
+    grid-column: 3 / 4;
+    grid-row: 2 / 4; }
+  .l-team__honours {
+    grid-column: 1 / 2; } }
