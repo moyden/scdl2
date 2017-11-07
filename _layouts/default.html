@@ -9,7 +9,10 @@
     {{ content }}
   </div>
   <footer class="l-site-footer">
-    Footer content
+    <a href="{{ "/teams/colorado-pony-hospital" | prepend: site.baseurl }}">Ponies</a>
+    <a href="{{ "/ranks.html" | prepend: site.baseurl }}">Ranks</a>
+    <a href="{{ "/history.html" | prepend: site.baseurl }}">History</a>
+    <a href="{{ "/rules.html" | prepend: site.baseurl }}">Rules</a>
   </footer>
   {% if layout.scripts %}
     {% for script in layout.scripts %}

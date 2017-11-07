@@ -42,16 +42,14 @@ table {
 
 body {
   color: #000;
-  font-family: 'Helvetica Neue', sans-serif;
-  text-transform: uppercase; }
+  font-family: 'Helvetica Neue', sans-serif; }
 
 header,
 footer,
 div,
 section {
   border: 1px solid #000;
-  padding: 1rem;
-  text-align: center; }
+  padding: 1rem; }
 
 table {
   border: 1px solid #000;
