@@ -8,6 +8,21 @@ header,
 footer,
 div,
 section {
+  border: 1px solid $black;
   padding: 1rem;
   text-align: center;
+}
+
+table {
+  border: 1px solid $black;
+  width: 100%;
+
+  th {
+    border: 1px solid $black;
+  }
+
+  th,
+  td {
+    padding: .5rem;
+  }
 }
