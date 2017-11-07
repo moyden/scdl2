@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 {% include head.html %}
-
 <body>
   <header class="l-site-header">
     Header Content
@@ -12,6 +11,15 @@
   <footer class="l-site-footer">
     Footer content
   </footer>
+  {% if layout.scripts %}
+    {% for script in layout.scripts %}
+      <script src="{{ site.baseurl }}/js/{{ script }}.js"></script>
+    {% endfor %}
+  {% endif %}
+  {% if page.scripts %}
+    {% for script in page.scripts %}
+      <script src="{{ site.baseurl }}/js/{{ script }}.js"></script>
+    {% endfor %}
+  {% endif %}
 </body>
-
 </html>
