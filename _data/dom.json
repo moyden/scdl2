@@ -1,0 +1,169 @@
+{
+  "name": "London Lizards",
+  "gm": "Dom",
+  "salaryCap": "200",
+  "trophies": [],
+  "contracts": [
+    {
+      "name": "Dak Prescott",
+      "position": "QB",
+      "cost": 4,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Cam Newton",
+      "position": "QB",
+      "cost": 2,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Kirk Cousins",
+      "position": "QB",
+      "cost": 2,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "DeMarco Murray",
+      "position": "RB",
+      "cost": 31,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "LeSean McCoy",
+      "position": "RB",
+      "cost": 28,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Devonta Freeman",
+      "position": "RB",
+      "cost": 25,
+      "year": 4,
+      "drop": false
+    },
+    {
+      "name": "Mark Ingram",
+      "position": "RB",
+      "cost": 20,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "C.J. Anderson",
+      "position": "RB",
+      "cost": 14,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Joseph Randle",
+      "position": "RB",
+      "cost": 6,
+      "year": 2,
+      "drop": true
+    },
+    {
+      "name": "Derrick Henry",
+      "position": "RB",
+      "cost": 5,
+      "year": 4,
+      "drop": false
+    },
+    {
+      "name": "DeAndre Hopkins",
+      "position": "WR",
+      "cost": 23,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Jordy Nelson",
+      "position": "WR",
+      "cost": 9,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "DeVante Parker",
+      "position": "WR",
+      "cost": 4,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Brandon Marshall",
+      "position": "WR",
+      "cost": 4,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Stefon Diggs",
+      "position": "WR",
+      "cost": 3,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Paul Richardson",
+      "position": "WR",
+      "cost": 3,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "John Brown",
+      "position": "WR",
+      "cost": 2,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Jermaine Kearse",
+      "position": "WR",
+      "cost": 2,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Willie Snead",
+      "position": "WR",
+      "cost": 1,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Ted Ginn Jr.",
+      "position": "WR",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Kenny Stills",
+      "position": "WR",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Zach Ertz",
+      "position": "TE",
+      "cost": 1,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Jason Witten",
+      "position": "TE",
+      "cost": 1,
+      "year": 2,
+      "drop": false
+    }
+  ]
+}

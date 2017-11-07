@@ -1,0 +1,216 @@
+{
+  "name": "Dillon Panthers",
+  "gm": "James",
+  "salaryCap": "204",
+  "trophies": [
+    {
+      "name": "League Losers 2015",
+      "icon": "rosette"
+    }
+  ],
+  "contracts": [
+    {
+      "name": "Aaron Rodgers",
+      "position": "QB",
+      "cost": 12,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Philip Rivers",
+      "position": "QB",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Jared Goff",
+      "position": "QB",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Le'Veon Bell",
+      "position": "RB",
+      "cost": 59,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Jamaal Charles",
+      "position": "RB",
+      "cost": 59,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Adrian Peterson",
+      "position": "RB",
+      "cost": 4,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Darren McFadden",
+      "position": "RB",
+      "cost": 4,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Dion Lewis",
+      "position": "RB",
+      "cost": 3,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Frank Gore",
+      "position": "RB",
+      "cost": 3,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Mike Gillislee",
+      "position": "RB",
+      "cost": 2,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Denard Robinson",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Paul Perkins",
+      "position": "RB",
+      "cost": 1,
+      "year": 2,
+      "drop": true
+    },
+    {
+      "name": "Cameron Artis-Payne",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Julian Edelman",
+      "position": "WR",
+      "cost": 17,
+      "year": 2,
+      "drop": true
+    },
+    {
+      "name": "Brandin Cooks",
+      "position": "WR",
+      "cost": 15,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Nelson Agholor",
+      "position": "WR",
+      "cost": 4,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Sammy Watkins",
+      "position": "WR",
+      "cost": 4,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Sterling Shepherd",
+      "position": "WR",
+      "cost": 3,
+      "year": 4,
+      "drop": false
+    },
+    {
+      "name": "John Ross",
+      "position": "WR",
+      "cost": 2,
+      "year": 4,
+      "drop": false
+    },
+    {
+      "name": "DeSean Jackson",
+      "position": "WR",
+      "cost": 2,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Larry Fitzgerald",
+      "position": "WR",
+      "cost": 2,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Chris Hogan",
+      "position": "WR",
+      "cost": 2,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Will Fuller",
+      "position": "WR",
+      "cost": 2,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Markus Wheaton",
+      "position": "WR",
+      "cost": 1,
+      "year": 2,
+      "drop": true
+    },
+    {
+      "name": "Greg Olsen",
+      "position": "TE",
+      "cost": 5,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Coby Fleener",
+      "position": "TE",
+      "cost": 2,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Gary Barnidge",
+      "position": "TE",
+      "cost": 2,
+      "year": 2,
+      "drop": true
+    },
+    {
+      "name": "Richard Rodgers",
+      "position": "TE",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Tyler Kroft",
+      "position": "TE",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    }
+  ]
+}

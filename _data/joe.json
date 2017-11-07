@@ -1,0 +1,265 @@
+{
+  "name": "Colorado Pony Hospital",
+  "gm": "Joe",
+  "salaryCap": "199",
+  "trophies": [
+    {
+      "name": "Tim Tebow Cup",
+      "icon": "cup"
+    }
+  ],
+  "contracts": [
+    {
+      "name": "Drew Brees",
+      "position": "QB",
+      "cost": 6,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Marcus Mariota",
+      "position": "QB",
+      "cost": 5,
+      "year": 4,
+      "drop": false
+    },
+    {
+      "name": "Blake Bortles",
+      "position": "QB",
+      "cost": 3,
+      "year": 4,
+      "drop": true
+    },
+    {
+      "name": "Carson Wentz",
+      "position": "QB",
+      "cost": 3,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Philip Rivers",
+      "position": "QB",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Jay Ajayi",
+      "position": "RB",
+      "cost": 25,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Leonard Fournette",
+      "position": "RB",
+      "cost": 20,
+      "year": 4,
+      "drop": false
+    },
+    {
+      "name": "Thomas Rawls",
+      "position": "RB",
+      "cost": 9,
+      "year": 2,
+      "drop": true
+    },
+    {
+      "name": "Melvin Gordon",
+      "position": "RB",
+      "cost": 16,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Doug Martin",
+      "position": "RB",
+      "cost": 8,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Aaron Jones",
+      "position": "RB",
+      "cost": 6,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Tevin Coleman",
+      "position": "RB",
+      "cost": 5,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Chris Ivory",
+      "position": "RB",
+      "cost": 4,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Matt Jones",
+      "position": "RB",
+      "cost": 4,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Jamaal Charles",
+      "position": "RB",
+      "cost": 3,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Alfred Morris",
+      "position": "RB",
+      "cost": 3,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Giovani Bernard",
+      "position": "RB",
+      "cost": 2,
+      "year": 2,
+      "drop": true
+    },
+    {
+      "name": "David Cobb",
+      "position": "RB",
+      "cost": 2,
+      "year": 2,
+      "drop": true
+    },
+    {
+      "name": "Keenan Allen",
+      "position": "WR",
+      "cost": 13,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Davante Adams",
+      "position": "WR",
+      "cost": 12,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Terrelle Pryor Sr.",
+      "position": "WR",
+      "cost": 10,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Demaryius Thomas",
+      "position": "WR",
+      "cost": 10,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Randall Cobb",
+      "position": "WR",
+      "cost": 9,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Corey Davis",
+      "position": "WR",
+      "cost": 5,
+      "year": 4,
+      "drop": false
+    },
+    {
+      "name": "Eric Decker",
+      "position": "WR",
+      "cost": 7,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Kevin White",
+      "position": "WR",
+      "cost": 3,
+      "year": 2,
+      "drop": true
+    },
+    {
+      "name": "Allen Robinson",
+      "position": "WR",
+      "cost": 3,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "John Brown",
+      "position": "WR",
+      "cost": 3,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Michael Thomas",
+      "position": "WR",
+      "cost": 1,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Josh Gordon",
+      "position": "WR",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Mike Williams",
+      "position": "WR",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Will Fuller V",
+      "position": "WR",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Hunter Henry",
+      "position": "TE",
+      "cost": 4,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Delanie Walker",
+      "position": "TE",
+      "cost": 4,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "O.J. Howard",
+      "position": "TE",
+      "cost": 1,
+      "year": 5,
+      "drop": false
+    },
+    {
+      "name": "Eric Ebron",
+      "position": "TE",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    }
+  ]
+}

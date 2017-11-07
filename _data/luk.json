@@ -1,0 +1,213 @@
+{
+  "name": "LOL Boys",
+  "gm": "Luke",
+  "salaryCap": "200",
+  "trophies": [
+    {
+      "name": "League Losers 2016",
+      "icon": "rosette"
+    },
+    {
+      "name": "Jugbowl Champions 2015",
+      "icon": "trophy"
+    }
+  ],
+  "contracts": [
+    {
+      "name": "Matthew Stafford",
+      "position": "QB",
+      "cost": 3,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Philip Rivers",
+      "position": "QB",
+      "cost": 2,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Jameis Winston",
+      "position": "QB",
+      "cost": 1,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Alex Smith",
+      "position": "QB",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "David Johnson",
+      "position": "RB",
+      "cost": 58,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Carlos Hyde",
+      "position": "RB",
+      "cost": 7,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Bilal Powell",
+      "position": "RB",
+      "cost": 5,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Tarik Cohen",
+      "position": "RB",
+      "cost": 4,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Javorius Allen",
+      "position": "RB",
+      "cost": 3,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Jamaal Williams",
+      "position": "RB",
+      "cost": 2,
+      "year": 2,
+      "drop": true
+    },
+    {
+      "name": "Alvin Kamara",
+      "position": "RB",
+      "cost": 2,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "C.J. Prosise",
+      "position": "RB",
+      "cost": 1,
+      "year": 2,
+      "drop": true
+    },
+    {
+      "name": "Theo Riddick",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Chris Johnson",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Duke Johnson",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Antonio Brown",
+      "position": "WR",
+      "cost": 49,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Alshon Jeffery",
+      "position": "WR",
+      "cost": 26,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Jarvis Landry",
+      "position": "WR",
+      "cost": 6,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Josh Gordon",
+      "position": "WR",
+      "cost": 3,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Dorial Green-Beckham",
+      "position": "WR",
+      "cost": 2,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Kelvin Benjamin",
+      "position": "WR",
+      "cost": 1,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Tajae Sharpe",
+      "position": "WR",
+      "cost": 1,
+      "year": 3,
+      "drop": true
+    },
+    {
+      "name": "Josh Doctson",
+      "position": "WR",
+      "cost": 1,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Corey Coleman",
+      "position": "WR",
+      "cost": 1,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Kenny Golladay",
+      "position": "WR",
+      "cost": 1,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "J.J. Nelson",
+      "position": "WR",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Jordan Reed",
+      "position": "TE",
+      "cost": 11,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Travis Kelce",
+      "position": "TE",
+      "cost": 8,
+      "year": 2,
+      "drop": false
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "name": "Team HGH",
+  "gm": "Adam",
+  "salaryCap": "200",
+  "trophies": [
+    {
+      "name": "Jugbowl Champions 2016",
+      "icon": "trophy"
+    }
+  ],
+  "contracts": [
+    {
+      "name": "Russell Wilson",
+      "position": "QB",
+      "cost": 20,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Derek Carr",
+      "position": "QB",
+      "cost": 10,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Teddy Bridgewater",
+      "position": "QB",
+      "cost": 2,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Adrian Peterson",
+      "position": "RB",
+      "cost": 48,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Jeremy Hill",
+      "position": "RB",
+      "cost": 33,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Kareem Hunt",
+      "position": "RB",
+      "cost": 14,
+      "year": 5,
+      "drop": false
+    },
+    {
+      "name": "Dalvin Cook",
+      "position": "RB",
+      "cost": 13,
+      "year": 4,
+      "drop": false
+    },
+    {
+      "name": "Marshawn Lynch",
+      "position": "RB",
+      "cost": 11,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Thomas Rawls",
+      "position": "RB",
+      "cost": 3,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Samaje Perine",
+      "position": "RB",
+      "cost": 1,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Mike Evans",
+      "position": "WR",
+      "cost": 28,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Jordan Matthews",
+      "position": "WR",
+      "cost": 9,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Tyreek Hill",
+      "position": "WR",
+      "cost": 8,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Emmanuel Sanders",
+      "position": "WR",
+      "cost": 5,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Jamison Crowder",
+      "position": "WR",
+      "cost": 5,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Allen Hurns",
+      "position": "WR",
+      "cost": 3,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Cooper Kupp",
+      "position": "WR",
+      "cost": 2,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Devin Funchess",
+      "position": "WR",
+      "cost": 2,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Zay Jones",
+      "position": "WR",
+      "cost": 1,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Philip Dorsett",
+      "position": "WR",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Martellus Bennett",
+      "position": "TE",
+      "cost": 5,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Evan Engram",
+      "position": "TE",
+      "cost": 1,
+      "year": 2,
+      "drop": false
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "name": "Jamaal About That Base",
+  "gm": "Will",
+  "salaryCap": "197",
+  "trophies": [],
+  "contracts": [
+    {
+      "name": "Tom Brady",
+      "position": "QB",
+      "cost": 10,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Eli Manning",
+      "position": "QB",
+      "cost": 1,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Eddie Lacy",
+      "position": "RB",
+      "cost": 51,
+      "year": 3,
+      "drop": true
+    },
+    {
+      "name": "Alfred Morris",
+      "position": "RB",
+      "cost": 14,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Ty Montgomery",
+      "position": "RB",
+      "cost": 12,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Joe Mixon",
+      "position": "RB",
+      "cost": 9,
+      "year": 4,
+      "drop": false
+    },
+    {
+      "name": "Eddie Lacy",
+      "position": "RB",
+      "cost": 7,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Andre Ellington",
+      "position": "RB",
+      "cost": 3,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Kerwynn Williams",
+      "position": "RB",
+      "cost": 3,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Chris Carson",
+      "position": "RB",
+      "cost": 3,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Alfred Blue",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Andre Williams",
+      "position": "RB",
+      "cost": 1,
+      "year": 3,
+      "drop": true
+    },
+    {
+      "name": "Matt Forte",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Giovani Bernard",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Wendell Smallwood",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Orleans Darkwa",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Randall Cobb",
+      "position": "WR",
+      "cost": 35,
+      "year": 3,
+      "drop": true
+    },
+    {
+      "name": "T.Y. Hilton",
+      "position": "WR",
+      "cost": 29,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Doug Baldwin",
+      "position": "WR",
+      "cost": 13,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Golden Tate",
+      "position": "WR",
+      "cost": 6,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Jeremy Maclin",
+      "position": "WR",
+      "cost": 3,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Michael Crabtree",
+      "position": "WR",
+      "cost": 2,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Kenny Britt",
+      "position": "WR",
+      "cost": 2,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Tyler Boyd",
+      "position": "WR",
+      "cost": 1,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Marvin Jones",
+      "position": "WR",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Rob Gronkowski",
+      "position": "TE",
+      "cost": 41,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Kyle Rudolph",
+      "position": "TE",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Jack Doyle",
+      "position": "TE",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    }
+  ]
+}

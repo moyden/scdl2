@@ -1,0 +1,197 @@
+{
+  "name": "Dynasty Warriors III",
+  "gm": "Richard",
+  "salaryCap": "200",
+  "trophies": [],
+  "contracts": [
+    {
+      "name": "Andrew Luck",
+      "position": "QB",
+      "cost": 36,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Carson Palmer",
+      "position": "QB",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Ben Roethlisberger",
+      "position": "QB",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Tyrod Taylor",
+      "position": "QB",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Jordan Howard",
+      "position": "RB",
+      "cost": 23,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Ameer Abdullah",
+      "position": "RB",
+      "cost": 12,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Isaiah Crowell",
+      "position": "RB",
+      "cost": 12,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Robert Kelley",
+      "position": "RB",
+      "cost": 3,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Jonathan Stewart",
+      "position": "RB",
+      "cost": 2,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Jacquizz Rodgers",
+      "position": "RB",
+      "cost": 1,
+      "year": 2,
+      "drop": true
+    },
+    {
+      "name": "Chris Thompson",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Latavius Murray",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Jerrick McKinnon",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Dez Bryant",
+      "position": "WR",
+      "cost": 49,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Odell Beckham Jr.",
+      "position": "WR",
+      "cost": 40,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Michael Floyd",
+      "position": "WR",
+      "cost": 3,
+      "year": 4,
+      "drop": false
+    },
+    {
+      "name": "Tavon Austin",
+      "position": "WR",
+      "cost": 2,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Kendall Wright",
+      "position": "WR",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Kevin White",
+      "position": "WR",
+      "cost": 1,
+      "year": 5,
+      "drop": false
+    },
+    {
+      "name": "Laquon Treadwell",
+      "position": "WR",
+      "cost": 1,
+      "year": 4,
+      "drop": false
+    },
+    {
+      "name": "Adam Thielen",
+      "position": "WR",
+      "cost": 1,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Tyler Lockett",
+      "position": "WR",
+      "cost": 1,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Danny Amendola",
+      "position": "WR",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Tyrell Williams",
+      "position": "WR",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "JuJu Smith-Schuster",
+      "position": "WR",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Jimmy Graham",
+      "position": "TE",
+      "cost": 5,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Austin Seferian-Jenkins",
+      "position": "TE",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    }
+  ]
+}

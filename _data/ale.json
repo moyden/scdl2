@@ -1,0 +1,204 @@
+{
+  "name": "Oxford White Sharks",
+  "gm": "Alex",
+  "salaryCap": "200",
+  "trophies": [],
+  "contracts": [
+    {
+      "name": "Ryan Tannehill",
+      "position": "QB",
+      "cost": 3,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Sam Bradford",
+      "position": "QB",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Matt Ryan",
+      "position": "QB",
+      "cost": 6,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Ben Roethlisberger",
+      "position": "QB",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Deshaun Watson",
+      "position": "QB",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Ezekiel Elliott",
+      "position": "RB",
+      "cost": 37,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Todd Gurley",
+      "position": "RB",
+      "cost": 30,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Christian McCaffrey",
+      "position": "RB",
+      "cost": 17,
+      "year": 4,
+      "drop": false
+    },
+    {
+      "name": "Lamar Miller",
+      "position": "RB",
+      "cost": 16,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "LeGarrette Blount",
+      "position": "RB",
+      "cost": 2,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Terrance West",
+      "position": "RB",
+      "cost": 2,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Devontae Booker",
+      "position": "RB",
+      "cost": 1,
+      "year": 2,
+      "drop": true
+    },
+    {
+      "name": "Jerick McKinnon",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Spencer Ware",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Rex Burkhead",
+      "position": "RB",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Julio Jones",
+      "position": "WR",
+      "cost": 35,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "A.J. Green",
+      "position": "WR",
+      "cost": 20,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Amari Cooper",
+      "position": "WR",
+      "cost": 11,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Donte Moncrief",
+      "position": "WR",
+      "cost": 5,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Martavis Bryant",
+      "position": "WR",
+      "cost": 4,
+      "year": 3,
+      "drop": false
+    },
+    {
+      "name": "Jaelen Strong",
+      "position": "WR",
+      "cost": 1,
+      "year": 2,
+      "drop": true
+    },
+    {
+      "name": "Eric Decker",
+      "position": "WR",
+      "cost": 3,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Pierre Garcon",
+      "position": "WR",
+      "cost": 2,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Rishard Matthews",
+      "position": "WR",
+      "cost": 1,
+      "year": 2,
+      "drop": false
+    },
+    {
+      "name": "Tyler Eifert",
+      "position": "TE",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Eric Ebron",
+      "position": "TE",
+      "cost": 1,
+      "year": 1,
+      "drop": true
+    },
+    {
+      "name": "Charles Clay",
+      "position": "TE",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    },
+    {
+      "name": "Cameron Brate",
+      "position": "TE",
+      "cost": 1,
+      "year": 1,
+      "drop": false
+    }
+  ]
+}
